@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "WhatsApp Web Dark Mode",
+  "name": "WhatsApp Web Dark Theme",
   "version": "1.0",
-  "description": "Switch between dark and light mode on WhatsApp Web",
-  "permissions": ["activeTab", "declarativeContent", "webNavigation", "https://web.whatsapp.com/"],
+  "description": "Unofficial extension to activate dark theme on WhatsApp Web",
+  "permissions": ["declarativeContent", "webNavigation", "https://web.whatsapp.com/"],
   "background": {
     "scripts": ["js/background.js"],
     "persistent": false

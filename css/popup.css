@@ -1,0 +1,31 @@
+.body-dark {
+    background-color: #080e12;
+    color: aliceblue;
+}
+
+.body-light {
+    background-color: aliceblue;
+    color: #080e12;
+}
+
+.button-dark {
+    margin: 5px 10px;
+    padding: 5px 15px;
+    color: aliceblue;
+    font-family: "Roboto Light", sans-serif;
+    background-color: #5f8884;
+    border-width: 0;
+    border-radius: 4px;
+    outline: none;
+}
+
+.button-light {
+    margin: 5px 10px;
+    padding: 5px 15px;
+    color: aliceblue;
+    font-family: "Roboto Light", sans-serif;
+    background-color: #1b9a59;
+    border-width: 0;
+    border-radius: 4px;
+    outline: none;
+}

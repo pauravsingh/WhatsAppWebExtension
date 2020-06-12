@@ -3,7 +3,7 @@
   "name": "WhatsApp Web Dark Theme",
   "version": "1.0",
   "description": "Unofficial extension to activate dark theme on WhatsApp Web",
-  "permissions": ["declarativeContent", "webNavigation", "https://web.whatsapp.com/"],
+  "permissions": ["activeTab", "declarativeContent", "webNavigation", "https://web.whatsapp.com/"],
   "background": {
     "scripts": ["js/background.js"],
     "persistent": false
